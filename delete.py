@@ -1,5 +1,6 @@
 import os
 
+
 def delete_non_jbeam_files(folder_path):
     """删除所有非 .jbeam 文件"""
     for root, dirs, files in os.walk(folder_path):
@@ -12,9 +13,9 @@ def delete_non_jbeam_files(folder_path):
                 except Exception as e:
                     print(f"Error deleting file {file_path}: {e}")
 
+
 if __name__ == "__main__":
-
-    folder_path = r'D:\zh\vehicles\zh_cn\vehicles'
-
+    # 解压出来备份的地方
+    folder_path = r'D:\zh\vehicles\vehicles'
 
     delete_non_jbeam_files(folder_path)
