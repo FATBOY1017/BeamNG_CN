@@ -487,7 +487,7 @@ translations = {
     '"Engine Cover Emblem"': '"发动机机盖徽标"',
     '"Badge"': '"车标"',
     '"Bottom Right 1"': '"底部右侧1"',
-    '"Bottom Right 2"': '"底部右侧212"',
+    '"Bottom Right 2"': '"底部右侧2"',
     '"Left Trunk light"': '"左侧后备箱灯"',
     '"Right Trunk light"': '"右侧后备箱灯"',
     '"Exhaust Grille"': '"排气格栅"',
