@@ -395,7 +395,7 @@ translations = {
     '"Front Left Nosecone Light"': '"前保险杠左侧辅灯"',
     '"Front Hubs"': '"前轮毂"',
     '"Left Fuel Tank"': '"左侧油箱"',
-    '"Right Fuel Tank"': '"右侧邮箱"',
+    '"Right Fuel Tank"': '"右侧油箱"',
     '"Transaxle"': '"变速箱"',
     '"Rear Left Quarter Panel"': '"左后侧车身板"',
     '"Rear Right Quarter Panel"': '"右后侧车身板"',
