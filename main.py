@@ -1,6 +1,5 @@
 import os
 import re
-import config
 import data
 
 
@@ -31,7 +30,7 @@ def process_files_in_directory(folder_path, translations):
 
 
 if __name__ == "__main__":
-    # 要替换的文件包
+
     folder_path = r'D:\zh\vehicles\zh_cn\vehicles'
 
     translations = data.translations
