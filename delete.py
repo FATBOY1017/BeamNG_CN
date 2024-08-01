@@ -16,6 +16,6 @@ def delete_non_jbeam_files(folder_path):
 
 if __name__ == "__main__":
     # 解压出来备份的地方
-    folder_path = r'D:\zh\vehicles\vehicles'
+    folder_path = r'D:\zh\vehicles\zh_cn\vehicles'
 
     delete_non_jbeam_files(folder_path)
