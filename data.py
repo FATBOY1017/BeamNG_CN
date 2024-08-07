@@ -2932,7 +2932,7 @@ translations = {
     '"8x8 Body"': '"8x8 车身"',
     '"Disc Brakes"': '"盘式刹车"',
     '"Heavy Duty Disc Brakes"': '"强化盘式刹车"',
-    '"Round Lights"': '"原型灯光"',
+    '"Round Lights"': '"圆形灯光"',
     '"Right Rear Panel Glass"': '"右后侧面玻璃"',
     '"Left Rear Panel Panel"': '"左后侧面板"',
     '"Hatch Glass"': '"掀背玻璃"',
