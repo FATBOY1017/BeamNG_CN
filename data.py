@@ -2020,7 +2020,7 @@ translations = {
     '"Rear Drum Brakes"': '"后鼓式刹车"',
     '"Rear Rear Drum Brakes"': '"后鼓式刹车"',
     '"Heavy Duty Front Drum Brakes"': '"高负荷前盘式刹车"',
-    '"Heavy Duty Rear Drum Brakes"': '"高负荷后盘式刹车"',
+    '"Heavy Duty Rear Drum Brakes"': '"高负荷后给鼓式刹车"',
     '"Heavy Duty Rear Rear Drum Brakes"': '"高负荷后盘式刹车"',
     '"Heavy Duty Front Disc Brakes"': '"高负荷前盘式刹车"',
     '"Heavy Duty Rear Disc Brakes"': '"高负荷后盘式刹车"',
@@ -5436,5 +5436,6 @@ translations = {
     '"Light Duty 2 Axle Suspension"': '"轻型双轴悬挂系统"',
     '"Light Duty 3 Axle Suspension"': '"轻型三轴悬挂系统"',
     '"40ft Deck"': '"40英尺平板"',
+    '"Clutchex Race AWD Transfer Case"': '"Clutchex 赛用四驱分动箱"',
 
 }
